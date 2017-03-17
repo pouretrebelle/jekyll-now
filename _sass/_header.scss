@@ -1,0 +1,17 @@
+.header {
+  padding: 6rem 2rem;
+  text-align: center;
+  background: $bg-color-header;
+  &, a, a:hover {
+    color: $text-color-header;
+  }
+}
+
+.header__social {
+  &__icon {
+    margin: 2rem 1rem 0;
+    width: 3rem;
+    height: 3rem;
+    fill: $text-color-header;
+  }
+}
