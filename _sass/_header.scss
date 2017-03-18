@@ -5,6 +5,10 @@
   &, a, a:hover {
     color: $text-color-header;
   }
+
+  h1, h2, h3 {
+    margin-bottom: 1rem;
+  }
 }
 
 .header__social {
