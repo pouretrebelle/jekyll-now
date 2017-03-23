@@ -12,6 +12,29 @@
   img {
     max-width: 100%;
   }
+
+  blockquote {
+    color: $text-color-blockquote;
+    text-style: italic;
+    p {
+      font-size: 2rem;
+      line-height: 2.5rem;
+    }
+  }
+
+  ul {
+    li:before {
+      content: '\2014';
+      display: inline-block;
+      margin-right: 1em;
+    }
+  }
+
+  hr {
+    outline: none;
+    border: 1px dashed $hr-color;
+    border-top: 0;
+  }
 }
 
 .post__title a {
