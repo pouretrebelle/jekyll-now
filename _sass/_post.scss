@@ -42,11 +42,8 @@
 }
 
 .post__date {
-  margin: 0 auto;
-  width: 30rem;
-  max-width: 100%;
-  padding-top: 2rem;
-  border-top: 1px solid $permalink-border-color;
+  font-family: $font-title;
+  letter-spacing: 0.1rem;
   text-align: center;
 }
 
