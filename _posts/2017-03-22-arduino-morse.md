@@ -4,7 +4,7 @@ title: Morse Code Twitter Answering Machine
 ---
 
 <div class="post__video"><iframe width="560" height="315" src="https://www.youtube.com/embed/bYPkuMVaIxE?showinfo=0" frameborder="0" allowfullscreen></iframe></div>
-> TIL that the buzzing sound from this project can't be recorded??? used 2 pro grade mics and literally nothing. just imaging some quality morse-code-like buzzing when the light is pink.
+> Quick demo of functionality
 > Vlog is a'coming
 
 ---
