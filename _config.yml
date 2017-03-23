@@ -10,7 +10,7 @@ socials:
 
 url:
 
-baseurl: "/physcomp-blog"
+baseurl: ""
 
 permalink: /:title/
 
