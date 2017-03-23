@@ -33,5 +33,5 @@ I'm really happy with how the imagery came out. The device is quite frustrating 
 
 ![Images]({{ site.baseurl }}/assets/arduino-drawing/screenshots.jpg)
 
-- [Check out this project on Github](github.com/pouretrebelle/arduino-drawing)
+- [Check out this project on Github](http://github.com/pouretrebelle/arduino-drawing)
 - [Write up on the Official Arduino blog](https://blog.arduino.cc/2017/03/21/build-an-arduino-powered-magnetic-drawing-machine/)
